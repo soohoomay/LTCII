@@ -1,3 +1,2 @@
-# LTCII FALL 2016
-
-## Repository for student work and reports for San Leandro Adult School "Learn to Code II" class (Thurs 2-5pm)
+# LTC2_DI
+This is a space to where I contain all my work for this class.
